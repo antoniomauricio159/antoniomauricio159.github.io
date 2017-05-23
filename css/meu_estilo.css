@@ -1,0 +1,102 @@
+/*Antonio */ 
+/*div{
+    border:#000 solid 1px;} */
+
+
+
+body{
+      background-color: #287;}
+.texto_centro{
+         text-align: center;
+         color: #7FFF00;}
+
+.texto_centroh3{
+         text-align: center;
+         color: #FFD700;}
+
+.texto_centroh4{
+         text-align: center;
+         color: #FF4500;}
+
+.parte1{
+       background-color: #FF4500;
+       text-align: justify;}
+
+.parte2{
+       background-color: #00FFFF;
+       text-align: justify;}
+
+/*sobre a empresa */
+
+.parte3{
+       background-color: #DAA520;
+       text-align: justify;}
+ 
+/*equipe */
+.parte4{
+       background-color: grey;
+       text-align: justify;
+       margin-top: 10px;
+       font-weight: bold;}
+
+.parte5{background-color: #FF8C00;
+       text-align: justify;}
+
+/*formulario*/
+
+.img_form{ text-align: center;}
+       
+
+.roda{background-color: black;}
+
+/*post's*/
+.data{background-color: #4682;
+      text-align: center;
+      color: #fff;}
+
+.dia{font-size: 50px;
+     background-color: #125;
+     color: green;}
+
+.titulo{font-size: 50px;
+        font-weight: bold;
+        color: #000000;
+        padding: 12px}
+
+.escrito{font-size: 20px; 
+         color: #fff;}
+
+.textcont{padding: 10px;
+       font-size: 20;
+          text-align: justify;}
+         
+.img_from2{text-align: center;}
+
+/*login*/
+
+.borda_iden{border: solid 3px; color: #369;
+            border-radius: 3px}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
